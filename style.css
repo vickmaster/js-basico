@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+}
+main {
+    height: 80vh;
+}
+
+div {
+    height: 50%;
+    width: 100%;
+    color: blanchedalmond;
+    background-color: black;
+    border: 3px solid whitesmoke;
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
